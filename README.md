@@ -8,13 +8,14 @@ I am a second-year computer science student at [**Algoma University**](https://a
 
 ❤️ I love to code, and as a curious and passionate programmer, I have taught myself multiple web technologies and techniques. Primarily, I use Java for application programming, HTML || CSS || JavaScript for web development, and Python for scripting.
 
-Check out my 👉 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1t6Wr6ZSo2mzSTNNnfQirM9U0KjmIGlrh/view?usp=sharing)
+## 👉 Check out my resume [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1t6Wr6ZSo2mzSTNNnfQirM9U0KjmIGlrh/view?usp=sharing)
 
 
 ## 🚀 Skills
 ### Languages
-<!--JavaScript logo-->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 <!--Python logo-->
 
