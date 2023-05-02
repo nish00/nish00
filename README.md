@@ -2,7 +2,7 @@
 #### A budding software developer 🧑‍💻 and an ex-architect 📐 
 
 ## 🚀 About Me
-I am a second-year computer science student at [**Algoma University**](https://algomau.ca/).
+I am a third-year computer science student at [**Algoma University**](https://algomau.ca/).
 
 🔎 Currently, I am **seeking an internship** in software engineering to learn the intricacies of software development at a product level and gain exposure to different stages of the software development life cycle.
 
