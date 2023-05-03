@@ -8,7 +8,7 @@ I am a third-year computer science student at [**Algoma University**](https://al
 
 ❤️ I love to code, and as a curious and passionate programmer, I have taught myself multiple web technologies and techniques. Primarily, I use Java for application programming, HTML || CSS || JavaScript for web development, and Python for scripting.
 
-### 👉 Check out my [**Resume**](https://drive.google.com/file/d/1t6Wr6ZSo2mzSTNNnfQirM9U0KjmIGlrh/view?usp=sharing)
+### 👉 Check out my [**Resume**](https://drive.google.com/file/d/1Wt9dNGUrO6FPvjQ42yZ34jm0RZO-m4eE/view?usp=sharing)
 
 ## 📫 Reach out
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nishchal.jatwani@gmail.com)
